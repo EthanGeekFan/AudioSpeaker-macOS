@@ -1,0 +1,29 @@
+Uh-huh.
+Oops!
+Wake up! Wake up!
+Attention, please!
+Hush!
+You got me.
+Come on!
+You can do it!
+Are you kidding?
+Hey! What are you doing?
+Pay attention please!
+What the fuck are you saying man?
+What the Fuck!
+WTF!
+Shut Up!
+Stop That!
+Knock Off!
+The answer is A.
+The answer is B.
+The answer is C.
+The answer is D.
+<End>
+
+<--!-->
+This File is used to configure the list of short-cut.
+Each line defines a sentence.
+<--!-->
+DO NOT MOVE/DELETE THE FILE
+<--!-->
